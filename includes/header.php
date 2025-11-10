@@ -283,6 +283,12 @@
       font-size: 1rem;
     }
 
+    .footer-brand .brand img {
+      height: 40px;
+      width: auto;
+      filter: brightness(1);
+    }
+
     .footer-col-title {
       color: var(--text-primary);
       font-weight: 600;
