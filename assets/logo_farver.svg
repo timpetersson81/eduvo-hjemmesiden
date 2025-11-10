@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="80" viewBox="0 0 320 80">
+  <g fill="#0A2940">
+    <circle cx="40" cy="40" r="30" fill="none" stroke="#0A2940" stroke-width="6"/>
+    <circle cx="28" cy="40" r="6"/>
+    <circle cx="52" cy="40" r="6"/>
+    <circle cx="40" cy="28" r="8"/>
+    <path d="M24 52c4-8 32-8 36 0v4H24z"/>
+    <text x="80" y="54" font-family="Poppins, Inter, Arial, sans-serif" font-weight="600" font-size="34" fill="#0A2940">
+      Eduvo.dk
+    </text>
+  </g>
+</svg>

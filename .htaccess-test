@@ -1,0 +1,5 @@
+# Test if .htaccess works
+# If you can access this file at https://eduvo.dk/.htaccess-test
+# then .htaccess IS NOT working properly
+
+RewriteEngine is working!
